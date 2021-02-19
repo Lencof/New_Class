@@ -2,8 +2,8 @@
 # Class_A.py 
 
 class A(): # create class A():
-  pass 
+  pass # empty block
 
-a = 5
-b = 5
-print(a + b)
+a = 5 # your figures
+b = 5 # your figures
+print(a + b) # print() deduces
