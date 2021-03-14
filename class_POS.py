@@ -4,6 +4,6 @@
 class POS(): # create class POC():
     pass # an empty block
   
-A = 100
-B = 200
-A == B
+A = 100 # your figures
+B = 200 # your figures
+A == B # comparison
