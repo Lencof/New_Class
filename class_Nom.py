@@ -1,5 +1,5 @@
 # __Author__ __Lencof__
-# Class_Nom.py
+# class_Nom.py
 
 class Nom(): # create class A():
   pass # empty block
