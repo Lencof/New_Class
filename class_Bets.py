@@ -7,3 +7,4 @@ class Bets(): # create class Bets():
 S = Bets # appropriation
 S = 5000 # your figures
 V = 5000 # your figures
+print(S + V) # use print()
