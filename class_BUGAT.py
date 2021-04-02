@@ -2,7 +2,7 @@
 # class_BUGAT.py
 
 class BUGAT(): # create class BUGAT
-  pass # an empty block
+    pass # an empty block
 
 Poli = BUGAR # appropriation
 Poli = (120 + 120) # your figures
