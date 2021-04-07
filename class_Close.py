@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # class_Close.py
 
+import os
+
 # create class Close():
 class Close():
     print('Close') # your text
