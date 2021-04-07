@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # Asa.py
 
+import os
+
 class Asa(): # create class Asa():
   pass # an empty block
 
