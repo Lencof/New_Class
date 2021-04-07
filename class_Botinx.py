@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # class_Botinx.py
 
+import os
+
 class Botinx: # create class Botinx
     pass # an empty block
   
