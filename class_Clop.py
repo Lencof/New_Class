@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # class_Clop.py
 
+import os
+
 class Clop(): # create class Clop():
     pass # an empty block
   
