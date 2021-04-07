@@ -1,9 +1,10 @@
 # __Author__ __Lencof__
 # class_Asax.py
 
+import os
+
 class Asax(): # create class Asax():
   pass # an empty block
-
 
 X = Asax # appropriation
 X = 890 # your figures
