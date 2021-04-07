@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # class_Bopox.py
 
+import os
+
 # create class Bopox():
 class Bopox():
     pass # an empty block
