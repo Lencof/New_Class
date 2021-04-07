@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # class_Lobit.py
 
+import os
+
 class Lobit: # create class Lobit
     pass # an empty block
   
