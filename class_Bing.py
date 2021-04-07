@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # class_Bing.py
 
+import os
+
 class Bing(): # create class Bing():
     pass # An empty block
   
