@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # class_Buhrap.py
 
+import os
+
 class Buhrap(): # create class Buhrap
     pass # an empty block
   
