@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # class_Eco.py
 
+import os
+
 class Eco(): # create class Eco():
       pass # an empty block
   
