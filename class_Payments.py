@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # class_Payments.py
 
+import os
+
 class Payments(): # create class Payments():
    pass # An empty block
   
