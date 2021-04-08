@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # class_Nation.py
 
+import os
+
 class Nation(): # create class Nation():
     pass # an empty block
   
