@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # class_Naco.py
 
+import os
+
 class Naco(): # create class Naco():
   pass # empty block
 
