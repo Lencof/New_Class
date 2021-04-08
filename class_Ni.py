@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # class_Ni.py
 
+import os
+
 class Ni(): # create class Ni():
     pass # an empty block
 
