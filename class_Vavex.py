@@ -3,8 +3,10 @@
 #!/usr/bin/python
 # class_Vavex.py
 
+import os 
+
 class Vavex(): # create class Vavex
-  pass # An empty block
+    pass # An empty block
 
 Ex = Vavex() # assigment
 Ex = (100 * 8) # your text
