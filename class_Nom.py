@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # class_Nom.py
 
+import os
+
 class Nom(): # create class A():
   pass # empty block
 
