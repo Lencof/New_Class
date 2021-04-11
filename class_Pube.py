@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # class_Pube.py
 
+import os
+
 class Pube(): # create class Pube():
     pass # an empty block
   
