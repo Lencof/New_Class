@@ -1,6 +1,8 @@
 # __Author__ __Lencof__
 # class_Nanco.py
 
+import os
+
 class Nanco(): # create class Nanco():
     pass # an empty block
 
