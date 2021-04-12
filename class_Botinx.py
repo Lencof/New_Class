@@ -2,6 +2,7 @@
 # class_Botinx.py
 
 import os
+import sys 
 
 class Botinx: # create class Botinx
     pass # an empty block
