@@ -2,6 +2,7 @@
 # class_Bing.py
 
 import os
+import sys
 
 class Bing(): # create class Bing():
     pass # An empty block
