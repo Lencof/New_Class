@@ -2,6 +2,7 @@
 # class_Bopox.py
 
 import os
+import sys
 
 # create class Bopox():
 class Bopox():
