@@ -2,6 +2,7 @@
 # class_Close.py
 
 import os
+import sys
 
 # create class Close():
 class Close():
