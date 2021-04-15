@@ -2,6 +2,7 @@
 # class_POC.py
 
 import os
+import sys
 
 class POC(): # create class POC():
     pass # an empty block
