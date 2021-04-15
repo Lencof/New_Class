@@ -1,6 +1,9 @@
 # __Author__ __Lencof__
 # class_Polr.py
 
+import os 
+import sys 
+
 class Polr(): # create class Polr():
     pass # an empty block
   
