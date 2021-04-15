@@ -2,6 +2,7 @@
 # class_Qaq.py
 
 import os
+import sys
 
 class Qaq(): # create class Qaq():
     pass # an empty block
