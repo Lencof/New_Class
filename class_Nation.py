@@ -2,6 +2,7 @@
 # class_Nation.py
 
 import os
+import sys 
 
 class Nation(): # create class Nation():
     pass # an empty block
