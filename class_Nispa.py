@@ -2,6 +2,7 @@
 # class_Nispa.py
 
 import os
+import sys
 
 class Nispa(): # create class Nispa():
     pass # an empty block
