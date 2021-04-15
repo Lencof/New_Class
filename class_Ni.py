@@ -2,6 +2,7 @@
 # class_Ni.py
 
 import os
+import sys 
 
 class Ni(): # create class Ni():
     pass # an empty block
