@@ -2,6 +2,7 @@
 # class_Nom.py
 
 import os
+import sys 
 
 class Nom(): # create class A():
   pass # empty block
