@@ -2,6 +2,7 @@
 # class_Trop.py
 
 import os
+import sys 
 
 class Trop(): # create class Trop():
   pass # an empty block
