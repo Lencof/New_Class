@@ -1,0 +1,4 @@
+C:\Users\Lencof\AppData\Local\Programs\Python\Python39\python39.zip
+C:\Users\Lencof\AppData\Local\Programs\Python\Python39\DLLs
+C:\Users\Lencof\AppData\Local\Programs\Python\Python39\lib
+C:\Users\Lencof\AppData\Local\Programs\Python\Python39
