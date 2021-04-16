@@ -4,6 +4,7 @@
 # class_Vavex.py
 
 import os 
+import sys 
 
 class Vavex(): # create class Vavex
     pass # An empty block
