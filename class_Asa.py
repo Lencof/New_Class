@@ -5,7 +5,7 @@ import os
 import sys
 
 class Asa(): # create class Asa():
-  pass # an empty block
+    pass # an empty block
 
 S = Asa # appropriation
 S = 111 # your figures
