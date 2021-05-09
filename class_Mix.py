@@ -41,4 +41,5 @@ class Mix():
     print('Mix') # your text 
     print('Mix') # your text 
     print('Mix') # your text 
-    
+ 
+Mix()
