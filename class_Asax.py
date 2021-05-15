@@ -3,9 +3,10 @@
 
 import os
 import sys
+import os.path
 
 class Asax(): # create class Asax():
-  pass # an empty block
+    pass # an empty block
 
 X = Asax # appropriation
 X = 890 # your figures
