@@ -3,6 +3,7 @@
 
 import os
 import sys
+import os.path
 
 class BUGAT(): # create class BUGAT
     pass # an empty block
