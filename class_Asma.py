@@ -3,7 +3,6 @@
 
 import os
 import sys
-import os.path
 
 class Asma(): # create class Asma():
     pass # an empty block
