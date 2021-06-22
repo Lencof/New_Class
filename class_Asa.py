@@ -3,7 +3,6 @@
 
 import os
 import sys
-import os.path
 
 class Asa(): # create class Asa():
     pass # an empty block
