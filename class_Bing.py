@@ -3,7 +3,6 @@
 
 import os
 import sys
-import os.path
 
 class Bing(): # create class Bing():
     pass # An empty block
