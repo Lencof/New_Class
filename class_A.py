@@ -1,11 +1,8 @@
 # __Author__ __Lencof__
 # Class_A.py 
 
-import os
-import sys
-
 class A(): # create class A():
-  pass # empty block
+    pass # empty block
 
 a = 5 # your figures
 b = 5 # your figures
