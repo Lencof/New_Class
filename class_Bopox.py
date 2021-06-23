@@ -3,7 +3,6 @@
 
 import os
 import sys
-import os.path
 
 # create class Bopox():
 class Bopox():
