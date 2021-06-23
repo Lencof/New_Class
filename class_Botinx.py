@@ -3,7 +3,6 @@
 
 import os
 import sys 
-import os.path
 
 class Botinx: # create class Botinx
     pass # an empty block
