@@ -3,7 +3,6 @@
 
 import os
 import sys
-import os.path
 
 class Bass(): # create class Bass():
     pass # empty block
