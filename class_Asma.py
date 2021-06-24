@@ -1,9 +1,6 @@
 # __Author__ __Lencof__
 # class_Asma.py
 
-import os
-import sys
-
 class Asma(): # create class Asma():
     pass # an empty block
   
