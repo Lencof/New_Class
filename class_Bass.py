@@ -1,9 +1,6 @@
 # __Author__ __Lencof__
 # class_Bass.py
 
-import os
-import sys
-
 class Bass(): # create class Bass():
     pass # empty block
 
