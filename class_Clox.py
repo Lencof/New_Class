@@ -1,9 +1,6 @@
 # __Author__ __Lencof__
 # class_Clox.py
 
-import os
-import sys
-
 # create class Bopox():
 class Clox():
     pass # an empty block
