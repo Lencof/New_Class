@@ -1,9 +1,6 @@
 # __Author__ __Lencof__
 # class_Macos.py
 
-import os
-import sys
-
 # create class Macos
 class Macos():
     pass # an empty block
