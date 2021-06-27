@@ -2,7 +2,7 @@
 # class_L.py
 
 class L(): # create class L():
-  pass # empty block
+    pass # empty block
 
 as = 100 # your figures
 bi = 1000 # your figures
