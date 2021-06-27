@@ -1,9 +1,6 @@
 # __Author__ __Lencof__
 # class_Loca.py
 
-import os
-import sys 
-
 class Loca(): # create class Loca():
     pass # an empty block
   
