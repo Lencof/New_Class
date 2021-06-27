@@ -1,9 +1,6 @@
 # __Author__ __Lencof__
 # Create Class Lo
 
-import os
-import sys 
-
 class Lo: # Create Class Lo
     pass # An empty block
 
