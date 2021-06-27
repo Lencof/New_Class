@@ -1,9 +1,6 @@
 # __Author__ __Lencof__
 # class_Lotix.py
 
-import os
-import sys 
-
 # create class_Lotix
 class Lotix():
     pass # an empty block
