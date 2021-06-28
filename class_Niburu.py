@@ -1,9 +1,6 @@
 # __Author__ __Lencof__
 # class_Niburu.py
 
-import os
-import sys
-
 # create class Niburu
 class Niburu():
     pass # An empty block
