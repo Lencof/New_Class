@@ -1,9 +1,6 @@
 # __Author__ __Lencof__
 # class_POS.py
 
-import os
-import sys 
-
 class POS(): # create class POC():
     pass # an empty block
   
