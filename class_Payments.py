@@ -1,11 +1,8 @@
 # __Author__ __Lencof__
 # class_Payments.py
 
-import os
-import sys
-
 class Payments(): # create class Payments():
-   pass # An empty block
+    pass # An empty block
   
 A = Payments() # assignment
 A = (1000 * 1000) # your text and figures
