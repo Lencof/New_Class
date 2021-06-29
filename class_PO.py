@@ -1,9 +1,6 @@
 # __Author__ __Lencof__
 # class_PO.py
 
-import os
-import sys
-
 class PO(): # create class PO():
     print('PO?') # your text
     print('PO?') # your text
