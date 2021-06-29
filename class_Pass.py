@@ -1,11 +1,8 @@
 # __Author__ __Lencof__
 # class_Pass.py
 
-import os
-import sys 
-
 class Pass(): # create class Pass():
-  pass # empty block
+    pass # empty block
 
 C = 100 # your figures
 B = 100 # yout figures
