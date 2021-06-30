@@ -1,9 +1,6 @@
 # __Author__ __Lencof__
 # Create class Python
 
-import os
-import sys 
-
 class Python: # Create class Python
     pass #An empty block
 
