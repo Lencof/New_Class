@@ -1,9 +1,6 @@
 # __Author__ __Lencof__
 # class_Point.py
 
-import os
-import sys 
-
 class Point(): # create class Point():
     pass # an empty block
   
