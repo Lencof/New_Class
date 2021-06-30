@@ -1,9 +1,6 @@
 # __Author__ __Lencof__
 # class_Qaq.py
 
-import os
-import sys
-
 class Qaq(): # create class Qaq():
     pass # an empty block
   
