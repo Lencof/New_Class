@@ -2,10 +2,9 @@
 # class_Trop.py
 
 import os
-import sys 
 
 class Trop(): # create class Trop():
-  pass # an empty block
+    pass # an empty block
 
 Al = Trop # appropriation
 Al = (1000 * 1000) # your figures
