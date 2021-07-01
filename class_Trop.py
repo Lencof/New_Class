@@ -1,8 +1,6 @@
 # __Author__ __Lencof__
 # class_Trop.py
 
-import os
-
 class Trop(): # create class Trop():
     pass # an empty block
 
