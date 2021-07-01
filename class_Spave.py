@@ -1,9 +1,6 @@
 # __Author__ __Lencof__
 # class_Spave.py
 
-import os
-import sys
-
 # create class Spave():
 class Spave():
     pass # an empty block
