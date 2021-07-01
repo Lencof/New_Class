@@ -1,9 +1,6 @@
 # __Author__ __Lencof__
 # class_SAPE.py
 
-import os
-import sys 
-
 class SAPE(): # create class SAPE():
     pass # an empty block
   
