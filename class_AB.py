@@ -1,11 +1,11 @@
 # __Author__ __Lencof__
 # class_AB.py
 
-class AB(): # create class AB():
-    pass # an empty block
+class AB():
+    pass 
   
-ASA = AB # appropriation
-ASA = 100 # your figures
-BIA = 200 # your figures
+ASA = AB 
+ASA = 100
+BIA = 200 
 
-print(ASA + BIA) # use function print()0
+print(ASA + BIA) 
