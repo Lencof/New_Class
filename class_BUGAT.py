@@ -1,10 +1,10 @@
 # __Author__ __Lencof__
 # class_BUGAT.py
 
-class BUGAT(): # create class BUGAT
-    pass # an empty block
+class BUGAT():
+    pass 
 
 Poli = BUGAR # appropriation
-Poli = (120 + 120) # your figures
-Exma = (90 + 90) # your figures
-print(Poli + Exma) # use function print()
+Poli = (120 + 120) 
+Exma = (90 + 90) 
+print(Poli + Exma) 
