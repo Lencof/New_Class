@@ -1,8 +1,8 @@
 # __Author__ __Lencof__
 # class_Asma.py
 
-class Asma(): # create class Asma():
-    pass # an empty block
+class Asma(): 
+    pass 
   
 Al = 1000 # your figures
 Dex = 0 # your figures
