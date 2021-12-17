@@ -1,10 +1,10 @@
 # __Author__ __Lencof__
 # class_Buhrap.py
 
-class Buhrap(): # create class Buhrap
-    pass # an empty block
+class Buhrap(): 
+    pass 
   
-A = Buhrap # appropriation
-A = 123 # your figures
-B = 123 # your figures
-print(A + B) # use function print() 
+A = Buhrap 
+A = 123 
+B = 123 
+print(A + B) 
