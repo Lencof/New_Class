@@ -1,8 +1,8 @@
 # __Author__ __Lencof__
 # class_D.py
 
-class D(): # create class_D():
-    print('Hello Worlds!') # your text
-    print('Hello Worlds!') # your text
-    print('Hello Worlds!') # your text
-D() # close D()
+class D():
+    print('Hello Worlds!') 
+    print('Hello Worlds!') 
+    print('Hello Worlds!') 
+D() 
