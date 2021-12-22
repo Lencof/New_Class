@@ -1,10 +1,10 @@
 # __Author__ __Lencof__
 # class_Botinx.py
 
-class Botinx: # create class Botinx
-    pass # an empty block
+class Botinx: 
+    pass 
   
-X = Botinx # appropriation
-X = 30000 # your figures
-BAZ = 12000 # your figures
-print(X + BAZ) # use function print()
+X = Botinx 
+X = 30000 
+BAZ = 12000 
+print(X + BAZ) 
