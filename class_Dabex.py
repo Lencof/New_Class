@@ -1,11 +1,11 @@
 # __Author__ __Lencof__
 # class_Dabex.py
 
-class Dabex(): # create class Dabex():
-    pass # an empty block
+class Dabex(): 
+    pass
   
-A = Dabex # appropriation
-A = 1200 # your figures
-B = 1200 # your figures
+A = Dabex 
+A = 1200 
+B = 1200 
 
-print(A + B) # use function print()
+print(A + B) 
