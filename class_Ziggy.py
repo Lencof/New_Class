@@ -1,12 +1,11 @@
 # __Author__ __Lencof__
 # class_Ziggy.py
 
-# create class Ziggy():
 class Ziggy():
-    pass # an empty block
+    pass 
   
-Q = Ziggy # appropriation
-Q = 999 # your figures
-C = 1000 # your figures
+Q = Ziggy 
+Q = 999
+C = 1000 
 
-print(Q + C) # use function print()
+print(Q + C) 
