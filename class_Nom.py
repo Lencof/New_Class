@@ -1,9 +1,9 @@
 # __Author__ __Lencof__
 # class_Nom.py
 
-class Nom(): # create class A():
-    pass # empty block
+class Nom(): 
+    pass 
 
-a = 1001 # your figures
-b = 1001 # your figures
-print(a + b) # print() deduces
+a = 1001
+b = 1001 
+print(a + b) 
