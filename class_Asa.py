@@ -4,7 +4,7 @@
 class Asa(): 
     pass 
 
-S = Asa # appropriation
-S = 111 # your figures
-D = 111 # your figures
-print(S + D) # use function print()
+S = Asa 
+S = 111 
+D = 111 
+print(S + D) 
